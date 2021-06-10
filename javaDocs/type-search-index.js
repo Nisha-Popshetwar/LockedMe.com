@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"AddFile"},{"p":"<Unnamed>","l":"AddFolder"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"FileDeletion"},{"p":"<Unnamed>","l":"FileSearch"},{"p":"<Unnamed>","l":"Sort"},{"p":"<Unnamed>","l":"Sort1"},{"p":"proj1","l":"VirtualRepository"}];updateSearchResults();
